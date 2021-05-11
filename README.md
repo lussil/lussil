@@ -9,7 +9,7 @@
 - 👯 Estou procurando coloborar com qualquer pequeno projeto
 - 🤔 Estou procurando por ajuda com gestão de projetos
 - 💬 Me pergunte sobre HTML e CSS
-- 📫 Você pode me encontrar :[LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
+- 📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
 - 😄 Pronomes: Ele
 
 
