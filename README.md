@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Lucas Cassiano</h1>
+<h1 >Hi 👋, Eu sou Lucas Cassiano</h1>
 <h3 >Um estudante de sistemas web</h3>
 
 
@@ -9,7 +9,7 @@
 - 👯 Estou procurando coloborar com qualquer pequeno projeto
 - 🤔 Estou procurando por ajuda com gestão de projetos
 - 💬 Me pergunte sobre HTML e CSS
-- 📫 Pode entrar em contato por:https://www.linkedin.com/in/lucascassiano/
+- 📫 Você pode me encontrar :[LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
 - 😄 Pronomes: Ele
 
 
