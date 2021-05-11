@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lucas Cassiano</h1>
-<h3 align="center">Um estudante de sistemas web</h3>
+<h1 >Hi 👋, I'm Lucas Cassiano</h1>
+<h3 >Um estudante de sistemas web</h3>
 
 
 - 🌱 Estou atualmente aprendendo HTML, CSS e PHP
 - 👯 Estou procurando coloborar com qualquer pequeno projeto
 - 🤔 Estou procurando por ajuda com gestão de projetos
-- 💬 Ask me about me
-- 📫 Pode entrar em contato por:https://www.linkedin.com/in/lucas-cassiano-da-silva-b82bba195/
+- 💬 Me pergunte sobre HTML e CSS
+- 📫 Pode entrar em contato por:https://www.linkedin.com/in/lucascassiano/
 - 😄 Pronomes: Ele
 
 
