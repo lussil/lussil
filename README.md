@@ -1,13 +1,12 @@
-<h1 >Hi 👋, Eu sou Lucas Cassiano</h1>
+<h1 >Oi 👋, Eu sou Lucas Cassiano</h1>
 <h3 >Desenvolvedor Web</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lussil&label=Profile%20views&color=0e75b6&style=flat" alt="lussil" /> </p>
 
 
-- 🌱 Estou atualmente aprendendo Vue.js, Laravel e Docker
-- 🤔 Estou procurando por ajuda com gestão de projetos
-- 💬 Me pergunte sobre HTML e CSS
+- 🌱 Estou atualmente aprendendo Vue.js, Laravel e C#
+- 💬 Me pergunte sobre HTML, CSS, PHP e JavaScript
 - 📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
 - 😄 Pronomes: ele/eles
 
