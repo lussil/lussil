@@ -1,17 +1,29 @@
-<h1 >Oi 👋, Eu sou Lucas Cassiano</h1>
-<h3 >Desenvolvedor Web</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+me+chamo+Lucas+Cassiano)](https://git.io/typing-svg)
+<h3 >Sou técnico de informatica e estou cursando sistemas de computação pela UFF, Trabalho atualmente com laravel e outras tecnologias voltadas ao desenvolvimento web </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lussil&label=Profile%20views&color=0e75b6&style=flat" alt="lussil" /> </p>
 
+###
 
-- 🌱 Estou atualmente aprendendo Vue.js, Laravel e C#
-- 💬 Me pergunte sobre HTML, CSS, PHP e JavaScript
-- 📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
-- 😄 Pronomes: ele/eles
+<h2 align="center">Sobre Min Me</h2>
 
+###
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+🤖 Adoro jogos e quero aprender a desenvolver um algum dia.
+</p>
+<p align="center">
+🌱 Estou atualmente aprendendo Vue.js, Laravel, livewire e C#.
+</p>
+<p align="center">
+💼 Desenvolverdo BackEnd na Agerio. : [Agerio](https://www.agerio.com.br/) 
+</p>
+<p align="center">
+📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
+</p>
+
+<h3 align="left">Linguagens / Frameworks / Ferramentas</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 
