@@ -6,21 +6,22 @@
 
 ###
 
-<h2 align="center">Sobre Min Me</h2>
+<h2 align="left">Sobre Min</h2>
 
 ###
 
-<p align="center">
-🤖 Adoro jogos e quero aprender a desenvolver um algum dia.
+<p align="left">
+- 🤖 Adoro jogos e quero aprender a desenvolver um algum dia.
 </p>
-<p align="center">
-🌱 Estou atualmente aprendendo Vue.js, Laravel, livewire e C#.
+<p align="left">
+- 🌱 Estou atualmente aprendendo Vue.js, Laravel, livewire e C#.
 </p>
-<p align="center">
-💼 Desenvolverdo BackEnd na Agerio. : [Agerio](https://www.agerio.com.br/) 
+<p align="left">
+- 💼 Desenvolverdo BackEnd na Agerio. :  [Agerio] (www.google.com.br) 
+  [Agerio](https://www.agerio.com.br/) 
 </p>
-<p align="center">
-📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/) 
+<p align="left">
+- 📫 Você pode me encontrar : [LinkdIn] (https://www.linkedin.com/in/lucascassiano/).  
 </p>
 
 <h3 align="left">Linguagens / Frameworks / Ferramentas</h3>
