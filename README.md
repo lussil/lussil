@@ -10,19 +10,15 @@
 
 ###
 
-<p align="left">
 - 🤖 Adoro jogos e quero aprender a desenvolver um algum dia.
-</p>
-<p align="left">
+
 - 🌱 Estou atualmente aprendendo Vue.js, Laravel, livewire e C#.
-</p>
-<p align="left">
-- 💼 Desenvolverdo BackEnd na Agerio. :  [Agerio] (www.google.com.br) 
-  [Agerio](https://www.agerio.com.br/) 
-</p>
-<p align="left">
-- 📫 Você pode me encontrar : [LinkdIn] (https://www.linkedin.com/in/lucascassiano/).  
-</p>
+
+- 💼 Desenvolverdo BackEnd na Agerio. : [Agerio](https://www.agerio.com.br/) 
+
+- 📫 Você pode me encontrar : [LinkdIn](https://www.linkedin.com/in/lucascassiano/).  
+
+###
 
 <h3 align="left">Linguagens / Frameworks / Ferramentas</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
