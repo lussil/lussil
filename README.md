@@ -14,7 +14,7 @@
 
 - 🌱 Estou atualmente aprendendo Vue.js, Laravel, livewire e C#.
 
-- 💼 Desenvolverdo BackEnd na Agerio. : [Agerio](https://www.agerio.com.br/) 
+- 💼 Desenvolvedor BackEnd na [Agerio](https://www.agerio.com.br/) 
 
 - 📫 Você pode me encontrar no [LinkdIn](https://www.linkedin.com/in/lucascassiano/).  
 
